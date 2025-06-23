@@ -1,11 +1,19 @@
 ### Onyx-Data-Challenge-May-2025
-I am excited to share the dashboard that I built as part of the Onyx DataDNA Challenge. 
+<html>
+<body> 
+<p>This is the dashboard that I built as part of the Onyx DataDNA Challenge.</p>
 
-My dashboard is divided into 4 sections:
-Sales and Revenue
-Customer Insights
-Product Insights and 
-Product Preferences
+<p>Tools Used: Power BI, DAX and Data Modeling</p> 
+
+<p>Power BI features used: Decomposition Tree, Heatmaps, Map Visuals and KPI Cards among others</p>
+
+<p>My dashboard is divided into 4 sections:
+<ul>
+ <li>Sales and Revenue</li>
+<li>Customer Insights</li>
+<li>Product Insights and</li> 
+<li>Product Preferences</li>
+</ul>
 
 Key Highlights:
 - Total Revenue: $12.16M. This is excluding the duplicate transactions IDs that were present in the dataset
@@ -19,5 +27,11 @@ Key Highlights:
 - In terms of color preferences, black and blue were most preferred by female customers and black and green were preferred by male customers
 - Android OS was the top selling OS in terms of units sold 
  
-Tools Used: Power BI, DAX and Data Modeling
+Snapshot of the entire dashboard is as below :
+
+<img src="Onyx_Data_Challenge_May2025.png"></img>
+</p>
+</body>
+</html>
+
 
